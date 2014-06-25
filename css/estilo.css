@@ -1,0 +1,2 @@
+body{height:100%;font-family:'Open Sans',arial}header{background:#1e90bd;color:#fff;height:70px;padding:1em 0 0 2em;}header h2{margin:0}nav ul{list-style:none;}nav ul li{display:inline-block;padding:1em 1em 0 1em}section{min-height:100%}height auto,height 100%,margin 0 auto -50px /* el magin-bottom es el valor negativo de     
+    la altura del footer */,footer{text-align:center;height:50px;background:#ddd}thead{font-weight:bold}.modal{text-align:center;color:#fff;padding-top:300px;font-size:32px}
